@@ -1,0 +1,36 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment files
+.env
+*.env
+
+# VS Code
+.vscode/
+
+# macOS/Linux
+.DS_Store
+Thumbs.db
+
+# Anaconda environment files
+*.conda
+*.egg-info/
+*.egg
+*.log
+
+# Jupyter runtime
+*.json
+*.sqlite
+.jupyter/
+
+# Jupyter Lab workspace
+.lab/
+
+# Ignore data/output folders (optional)
+data/
+output/
