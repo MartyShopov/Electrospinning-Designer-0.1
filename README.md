@@ -49,6 +49,6 @@ A simple launcher that allows you to choose between the modules:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/MartyShopov/Electrospinning-Designer-0.1.git
+git clone https://github.com/MartyShopov/Electrospinning-Designer-1.0.git
 cd Electrospinning-Designer
 
