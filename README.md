@@ -50,5 +50,5 @@ A simple launcher that allows you to choose between the modules:
 
 ```bash
 git clone https://github.com/MartyShopov/Electrospinning-Designer-1.0.git
-cd Electrospinning-Designer
+cd Electrospinning-Designer-1.0
 
